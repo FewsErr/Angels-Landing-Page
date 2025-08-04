@@ -1,1 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>5 Things Veterans & Families Must Know About Life Insurance</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #00274D;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    header p {
+      font-size: 1.2rem;
+    }
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #B22222;
+      margin-top: 1.5rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li::before {
+      content: "✅ ";
+      color: #B22222;
+    }
+    .cta {
+      text-align: center;
+      margin-top: 2rem;
+    }
+    .cta a {
+      display: inline-block;
+      margin: 0.5rem;
+      padding: 0.8rem 1.5rem;
+      background: #B22222;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+    .cta a:hover {
+      background: #8B1A1A;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #00274D;
+      color: white;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🇺🇸 From a Veteran, For Veterans & Families</h1>
+    <p>5 Things You Must Know About Life Insurance (Before It’s Too Late)</p>
+  </header>
 
+  <section>
+    <h2>About Me</h2>
+    <p>I’m <strong>Angel Soria</strong> — Veteran & Former Firefighter. Now I help Veterans and families protect their legacy with affordable life insurance.</p>
+
+    <h2>What You’ll Learn in This Free Guide</h2>
+    <ul>
+      <li>Why VA coverage isn’t enough for most families</li>
+      <li>How to get covered even with health issues (PTSD, injuries, diabetes, etc.)</li>
+      <li>The hidden cost of waiting — and how to lock in today’s rates</li>
+      <li>The 3 main types of life insurance (and which one is right for you)</li>
+      <li>Why working with a Veteran who understands you makes all the difference</li>
+    </ul>
+
+    <div class="cta">
+      <a href="/downloads/5_Things_Veterans_and_Families_Guide_With_Cover_and_Link.pdf" target="_blank">📖 Download Free Guide</a>
+      <a href="https://calendly.com/angelsoria-nonstop/30min" target="_blank">📅 Book a Call</a>
+    </div>
+
+    <h2>No Sales Pressure</h2>
+    <p>This is <strong>not a sales pitch</strong>. It’s a simple conversation to see what you qualify for, and if it makes sense for your family. I’ve walked in your boots. Now I want to help you protect your legacy.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Angel Soria | Veteran & Former Firefighter</p>
+  </footer>
+</body>
+</html>
